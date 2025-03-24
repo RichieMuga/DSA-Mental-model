@@ -8,7 +8,7 @@
 ## Different ways to represent graphs
 - Consider the following graph image below:
     
-    ![image info](./pictures/graph_example1.png)
+    ![Graph example](../pictures/graph_example1.png)
 
 1. #### Edge list
 edge_list = [[0,1], [1,2], [3,4], [3,6], [3,7], [4,2], [4,5], [5,2]]
@@ -18,7 +18,7 @@ edge_list = [[0,1], [1,2], [3,4], [3,6], [3,7], [4,2], [4,5], [5,2]]
 
 - Consider the previosuly discussed graph at the beggining of the topic on ```Different ways to represent a graph```
     
-    ![adjacency_matrix](./pictures/adjacency_matrix.png)
+    ![adjacency_matrix](../pictures/adjacency_matrix.png)
 
 - As you can see we use 0's and 1's to represent whether a node was visited or not.
 
