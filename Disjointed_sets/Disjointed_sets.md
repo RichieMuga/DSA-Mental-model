@@ -17,3 +17,6 @@
 
 ## time and space complexity
 - It is usually o(e+v)
+
+### For better understanding refer to the following video.
+[Lecture on disjointed sets](https://www.youtube.com/watch?v=wU6udHRIkcc)
