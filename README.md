@@ -20,6 +20,7 @@ I believe that having clear mental models for DSA concepts is crucial for:
 This repository is organized by data structures and algorithm patterns:
 
 - **Arrays**: Most common type of datastructure widely used and extreemly important
+- **Hashmaps**: Among the most common type of datastructure,that stores values in key value pairs hence reducing lookup and insert to O(1)
 - **BFS_DFS**: Breadth-First Search and Depth-First Search algorithms
 - **Disjointed_sets**: Implementation and usage of union-find data structure
 - **Dynamic_programming**: Solutions to optimization problems using memoization and tabulation
