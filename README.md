@@ -1,5 +1,4 @@
 # DSA-Mental-model
-# DSA Mental Model
 
 ![Data Structures and Algorithms](/pictures/dsa-banner.png)
 
